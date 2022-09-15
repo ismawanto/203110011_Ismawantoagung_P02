@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tambah Catatan</string>
+    <string name="file_name">Nama File</string>
+    <string name="file_name2">Nama File</string>
+    <string name="file_data">Data File</string>
+    <string name="data">data</string>
+    <string name="save">Save</string>
+    <string name="view">View</string>
+    <string name="delete">Delete</string>
+</resources>
